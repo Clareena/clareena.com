@@ -1,0 +1,26 @@
+base_url = "https://www.clareena.com"
+title = "Clareena"
+
+compile_sass = true
+build_search_index = true
+theme = "hallo"
+
+[markdown]
+highlight_code = true
+
+[extra]
+greeting = "Hello!"
+
+iam = "My name is"
+
+links = [
+    { title = "Linkedin", url = "https://www.linkedin.com/in/clareena-may-1023a1192/", icon = "linkedin" }
+]
+
+[extra.author]
+name = "Clareena"
+
+[extra.theme]
+background = "#FF8c69"
+foreground = "#000"
+hover = "#333"
